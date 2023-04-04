@@ -2,11 +2,11 @@
 
 🔭 I'm currently working on:
 
-### 🔑 Cryptographic protocols and libraries
+#### 🔑 Cryptographic protocols and libraries
 - #### 🚀 [Wamu](https://github.com/wamutech)
   - 📖 A protocol and library for building threshold signature wallets controlled by multiple decentralized identities.
 
-### ⚒️ Tools for programming languages
+#### ⚒️ Tools for programming languages
 - #### 🚀 [ink! analyzer](https://github.com/ink-analyzer)
   - 📖 A collection of modular and reusable libraries and tools for semantic analysis of [ink!](https://use.ink/) smart contract code.
 
