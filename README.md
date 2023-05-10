@@ -10,6 +10,7 @@
 #### ⚒️ Tools for programming languages
 - #### 🚀 [ink! analyzer](https://github.com/ink-analyzer)
   - 📖 A collection of modular and reusable libraries and tools for semantic analysis of [ink!](https://use.ink/) smart contract code.
+  - 🌱 Funded by: the [Web3 Foundation](https://web3.foundation/).
 
 ⚡ I hold a [BSc in Computer Science](https://cis.mak.ac.ug/).
 
