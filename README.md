@@ -3,7 +3,7 @@
 🔭 I'm currently working on:
 
 #### 🔑 Cryptographic protocols and libraries
-- #### 🚀 [Wamu](https://github.com/wamutech)
+- #### 🚀 [Wamu](https://wamu.tech)
   - 📖 A protocol and library for building [threshold signature](https://academy.binance.com/en/articles/threshold-signatures-explained) wallets controlled by multiple [decentralized identities](https://ethereum.org/en/decentralized-identity/).
   - 🌱 Funded by: the [Ethereum Foundation](https://esp.ethereum.foundation/).
 
