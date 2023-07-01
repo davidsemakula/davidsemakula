@@ -13,5 +13,3 @@
   - 🌱 Funded by: the [Web3 Foundation](https://web3.foundation/).
 
 ⚡ I hold a [BSc in Computer Science](https://cis.mak.ac.ug/).
-
-💬 Twitter: [@davidsemakula](https://twitter.com/davidsemakula).
