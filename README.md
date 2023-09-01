@@ -4,7 +4,7 @@
 
 #### 🔑 Cryptographic protocols and libraries
 - #### 🚀 [Wamu](https://wamu.tech)
-  - 📖 A protocol and library for building [threshold signature](https://academy.binance.com/en/articles/threshold-signatures-explained) wallets controlled by multiple [decentralized identities](https://ethereum.org/en/decentralized-identity/).
+  - 📖 A protocol and library for computation of [threshold signatures](https://academy.binance.com/en/articles/threshold-signatures-explained) by multiple [decentralized identities](https://ethereum.org/en/decentralized-identity/).
   - 🌱 Funded by: the [Ethereum Foundation](https://esp.ethereum.foundation/).
 
 #### ⚒️ Tools for programming languages
