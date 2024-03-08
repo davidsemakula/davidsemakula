@@ -9,7 +9,7 @@
 
 #### ⚒️ Tools for programming languages and [program analysis](https://en.wikipedia.org/wiki/Program_analysis)
 - #### 🚀 [ink! Analyzer](https://analyze.ink)
-  - 📖 A collection of modular and reusable libraries and tools for [semantic analysis](https://en.wikipedia.org/wiki/Compiler#Front_end) of [ink!](https://use.ink/) smart contract code.
+  - 📖 A collection of modular and reusable libraries and tools for [semantic analysis](https://en.wikipedia.org/wiki/Compiler#Front_end) of [ink!](https://use.ink/) smart contracts.
   - 🌱 Funded by: the [Web3 Foundation](https://web3.foundation/).
 - I independently make [contributions](https://github.com/rust-lang/rust-analyzer/pulls?q=is%3Apr+author%3Adavidsemakula) to [rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs.
 
