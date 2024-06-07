@@ -8,13 +8,13 @@
   - 🌱 Funded by: the [Ethereum Foundation][EF].
 
 #### ⚒️ Tools for programming languages and [program analysis]
-- #### 🚀 [ink! Analyzer][ink-analyzer]
-  - 📖 A collection of modular and reusable libraries and tools for [semantic analysis] of [ink!] smart contracts.
-  - 🌱 Funded by: the [Web3 Foundation][w3f].
 - #### 🚧 [pallet-verifier]
   - 📖 A tool for detecting [common security vulnerabilities][vulnerabilities] and [insecure patterns] in
     [FRAME pallets][FRAME] using [static program analysis][static-analysis] techniques like [data-flow analysis][data-flow],
     [abstract interpretation][abs-int] and [symbolic execution][symbex].
+- #### 🚀 [ink! Analyzer][ink-analyzer]
+  - 📖 A collection of modular and reusable libraries and tools for [semantic analysis] of [ink!] smart contracts.
+  - 🌱 Funded by: the [Web3 Foundation][w3f].
 - I independently make [contributions][ra-contributions] to [rust-analyzer] - A Rust compiler front-end for IDEs.
 
 ⚡ I hold a [BSc in Computer Science][MAK].
