@@ -45,4 +45,4 @@
 
 [EF]: https://esp.ethereum.foundation
 [w3f]: https://web3.foundation
-[MAK]: https://cis.mak.ac.ug
+[MAK]: https://cocis.mak.ac.ug
