@@ -15,7 +15,12 @@
 - #### 🚀 [ink! Analyzer][ink-analyzer]
   - 📖 A collection of modular and reusable libraries and tools for [semantic analysis] of [ink!] smart contracts.
   - 🌱 Funded by: the [Web3 Foundation][w3f].
-- I independently make [contributions][ra-contributions] to [rust-analyzer] - A Rust compiler front-end for IDEs.
+- #### 🛟 [Open-source][open-source] contributions
+  - I independently make [contributions][ra-contributions] to [rust-analyzer] - a [Rust] compiler front-end for IDEs.
+  - I independently make [contributions][MIRAI-contributions] to [MIRAI] - an [abstract interpreter][abs-int]
+    for the [Rust] compiler's [mid-level intermediate representation (MIR)][MIR].
+  - I independently make [contributions][ink-contributions] to [ink!] - a [Rust DSL (Domain Specific Language)][DSL]
+    for writing [smart contracts][smart-contract] for [Substrate]-based blockchains.
 
 ⚡ I hold a [BSc in Computer Science][MAK].
 
@@ -32,7 +37,6 @@
 
 [pallet-verifier]: https://github.com/davidsemakula/pallet-verifier
 [FRAME]: https://docs.substrate.io/learn/runtime-development/#frame
-[Substrate]: https://docs.substrate.io
 [vulnerabilities]: https://secure-contracts.com/not-so-smart-contracts/substrate
 [insecure patterns]: https://docs.substrate.io/build/troubleshoot-your-code/#unsafe-or-insecure-patterns
 [static-analysis]: https://en.wikipedia.org/wiki/Static_program_analysis
@@ -40,8 +44,20 @@
 [abs-int]: https://en.wikipedia.org/wiki/Abstract_interpretation
 [symbex]: https://en.wikipedia.org/wiki/Symbolic_execution
 
+[open-source]: https://en.wikipedia.org/wiki/Open_source
+
 [rust-analyzer]: https://github.com/rust-lang/rust-analyzer
 [ra-contributions]: https://github.com/rust-lang/rust-analyzer/pulls?q=is%3Apr+author%3Adavidsemakula
+[Rust]: https://www.rust-lang.org/
+
+[MIRAI]: https://github.com/endorlabs/MIRAI
+[MIRAI-contributions]: https://github.com/endorlabs/MIRAI/pulls?q=is%3Apr+author%3Adavidsemakula
+[MIR]: https://rustc-dev-guide.rust-lang.org/mir/
+
+[ink-contributions]: https://github.com/use-ink/ink/pulls?q=is%3Apr+author%3Adavidsemakula
+[DSL]: https://doc.rust-lang.org/rust-by-example/macros/dsl.html
+[smart-contract]: https://en.wikipedia.org/wiki/Smart_contract
+[Substrate]: https://docs.substrate.io
 
 [EF]: https://esp.ethereum.foundation
 [w3f]: https://web3.foundation
