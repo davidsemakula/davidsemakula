@@ -12,6 +12,7 @@
   - 📖 A tool for detecting [common security vulnerabilities][vulnerabilities] and [insecure patterns] in
     [FRAME pallets][FRAME] using [static program analysis][static-analysis] techniques like [data-flow analysis][data-flow],
     [abstract interpretation][abs-int] and [symbolic execution][symbex].
+  - 🌱 Funded by: the [Web3 Foundation][w3f].
 - #### 🚀 [ink! Analyzer][ink-analyzer]
   - 📖 A collection of modular and reusable libraries and tools for [semantic analysis] of [ink!] smart contracts.
   - 🌱 Funded by: the [Web3 Foundation][w3f].
