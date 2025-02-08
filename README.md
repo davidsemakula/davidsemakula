@@ -22,6 +22,7 @@
     for the [Rust] compiler's [mid-level intermediate representation (MIR)][MIR].
   - I [contribute][ink-contributions] to [ink!] - a [Rust DSL (Domain Specific Language)][DSL]
     for writing [smart contracts][smart-contract] for [Substrate]-based blockchains.
+  - I [contribute][cargo-contract-contributions] to [cargo-contract] - a build and deployment tool for ink! smart contracts.
 
 ⚡ I hold a [BSc in Computer Science][MAK].
 
@@ -59,6 +60,9 @@
 [DSL]: https://doc.rust-lang.org/rust-by-example/macros/dsl.html
 [smart-contract]: https://en.wikipedia.org/wiki/Smart_contract
 [Substrate]: https://docs.substrate.io
+
+[cargo-contract]: https://github.com/use-ink/cargo-contract
+[cargo-contract-contributions]: https://github.com/use-ink/cargo-contract/pulls?q=is%3Apr+author%3Adavidsemakula
 
 [EF]: https://esp.ethereum.foundation
 [w3f]: https://web3.foundation
