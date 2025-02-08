@@ -17,10 +17,10 @@
   - 📖 A collection of modular and reusable libraries and tools for [semantic analysis] of [ink!] smart contracts.
   - 🌱 Funded by: the [Web3 Foundation][w3f].
 - #### 🛟 [Open-source][open-source] contributions
-  - I independently make [contributions][ra-contributions] to [rust-analyzer] - a [Rust] compiler front-end for IDEs.
-  - I independently make [contributions][MIRAI-contributions] to [MIRAI] - an [abstract interpreter][abs-int]
+  - I independently [contribute][ra-contributions] to [rust-analyzer] - a [Rust] compiler front-end for IDEs.
+  - I independently [contribute][MIRAI-contributions] to [MIRAI] - an [abstract interpreter][abs-int]
     for the [Rust] compiler's [mid-level intermediate representation (MIR)][MIR].
-  - I independently make [contributions][ink-contributions] to [ink!] - a [Rust DSL (Domain Specific Language)][DSL]
+  - I [contribute][ink-contributions] to [ink!] - a [Rust DSL (Domain Specific Language)][DSL]
     for writing [smart contracts][smart-contract] for [Substrate]-based blockchains.
 
 ⚡ I hold a [BSc in Computer Science][MAK].
