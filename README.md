@@ -7,7 +7,7 @@
   - 📖 A protocol and library for computation of [threshold signatures] by multiple [decentralized identities][did].
   - 🌱 Funded by: the [Ethereum Foundation][EF].
 
-#### ⚒️ Tools for programming languages and [program analysis]
+#### ⚒️ Programming languages, compilers and [program analysis]
 - #### 🚧 [pallet-verifier]
   - 📖 A tool for detecting [common security vulnerabilities][vulnerabilities] and [insecure patterns] in
     [FRAME pallets][FRAME] using [static program analysis][static-analysis] techniques like [data-flow analysis][data-flow],
