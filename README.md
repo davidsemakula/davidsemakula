@@ -2,11 +2,6 @@
 
 🔭 I'm currently working on:
 
-#### 🔑 [Cryptographic][crypto] protocols and libraries
-- #### 🚧 [Wamu][wamu]
-  - 📖 A protocol and library for computation of [threshold signatures] by multiple [decentralized identities][did].
-  - 🌱 Funded by: the [Ethereum Foundation][EF].
-
 #### ⚒️ Programming languages, compilers and [program analysis]
 - #### 🚧 [pallet-verifier]
   - 📖 A tool for detecting [common security vulnerabilities][vulnerabilities] and [insecure patterns] in
@@ -23,6 +18,11 @@
   - I [contribute][ink-contributions] to [ink!] - a [Rust DSL (Domain Specific Language)][DSL]
     for writing [smart contracts][smart-contract] for [Substrate]-based blockchains.
   - I [contribute][cargo-contract-contributions] to [cargo-contract] - a build and deployment tool for ink! smart contracts.
+
+#### 🔑 [Cryptographic][crypto] protocols and libraries
+- #### 🚧 [Wamu][wamu]
+  - 📖 A protocol and library for computation of [threshold signatures] by multiple [decentralized identities][did].
+  - 🌱 Funded by: the [Ethereum Foundation][EF].
 
 ⚡ I hold a [BSc in Computer Science][MAK].
 
