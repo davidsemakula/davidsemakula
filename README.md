@@ -35,7 +35,7 @@
 
 [ink-analyzer]: https://analyze.ink
 [ink!]: https://use.ink
-[semantic analysis]: https://en.wikipedia.org/wiki/Compiler#Front_end
+[semantic analysis]: https://en.wikipedia.org/wiki/Semantic_analysis_(compilers)
 
 [pallet-verifier]: https://github.com/davidsemakula/pallet-verifier
 [FRAME]: https://docs.substrate.io/learn/runtime-development/#frame
