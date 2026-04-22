@@ -9,16 +9,16 @@ I'm currently working on:
   [abstract interpretation][abs-int] and [symbolic execution][symbex]. (Funded by the [Web3 Foundation][w3f]).
 - [rust-analyzer] (independent [contributor][ra-contributions]) - a [Rust] compiler front-end for IDEs.
 - [MIRAI] (independent [contributor][MIRAI-contributions]) - an [abstract interpreter][abs-int]
-    for the [Rust] compiler's [mid-level intermediate representation (MIR)][MIR].
+  for the [Rust] compiler's [mid-level intermediate representation (MIR)][MIR].
 
 #### [Cryptographic][crypto] protocols and libraries
-- 🚧 [Wamu][wamu] (creator) - a protocol and library for computation of [threshold signatures] by multiple [cryptographic identities][did].
+- 🚧 [wamu] (creator) - a protocol and library for computation of [threshold signatures] by multiple [cryptographic identities][did].
   (Funded by the [Ethereum Foundation][EF]).
 
 I'm previously worked on/contributed to:
 
 - [ink! analyzer][ink-analyzer] (creator) - A collection of modular and reusable libraries and tools for 
-  [semantic analysis] of [ink!] smart contracts.
+  [semantic analysis] of [ink!] smart contracts. (Funded by the [Web3 Foundation][w3f]).
 - [tangle-network/cggmp-threshold-ecdsa][cggmp-impl] (independent [contributor][cggmp-impl-contributions]) - 
   an implementation of the [CGGMP21][cggmp] threshold ECDSA protocol.
 - [ink!] ([contributor][ink-contributions]) - a [Rust DSL (Domain Specific Language)][DSL]
@@ -35,7 +35,7 @@ I'm previously worked on/contributed to:
 [threshold signatures]: https://en.wikipedia.org/wiki/Threshold_cryptosystem
 [did]: https://ethereum.org/en/decentralized-identity/#what-are-decentralized-identifiers
 
-[ink-analyzer]: https://analyze.ink
+[ink-analyzer]: https://github.com/ink-analyzer
 [ink!]: https://use.ink
 [semantic analysis]: https://en.wikipedia.org/wiki/Semantic_analysis_(compilers)
 
