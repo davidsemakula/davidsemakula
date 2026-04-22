@@ -19,11 +19,13 @@ I'm previously worked on/contributed to:
 
 - [ink! analyzer][ink-analyzer] (creator) - A collection of modular and reusable libraries and tools for 
   [semantic analysis] of [ink!] smart contracts.
+- [tangle-network/cggmp-threshold-ecdsa][cggmp-impl] (independent [contributor][cggmp-impl-contributions]) - 
+  an implementation of the [CGGMP21][cggmp] threshold ECDSA protocol.
 - [ink!] ([contributor][ink-contributions]) - a [Rust DSL (Domain Specific Language)][DSL]
   for writing [smart contracts][smart-contract] for [Substrate]-based blockchains.
 - [cargo-contract] ([contributor][cargo-contract-contributions]) - a build and deployment tool for ink! smart contracts.
 
-⚡ I hold a [BSc in Computer Science][MAK].
+⚡ I hold a [B.Sc. in Computer Science][MAK].
 
 [crypto]: https://en.wikipedia.org/wiki/Cryptography
 [program analysis]: https://en.wikipedia.org/wiki/Program_analysis
@@ -62,6 +64,10 @@ I'm previously worked on/contributed to:
 
 [cargo-contract]: https://github.com/use-ink/cargo-contract
 [cargo-contract-contributions]: https://github.com/use-ink/cargo-contract/pulls?q=is%3Apr+author%3Adavidsemakula
+
+[cggmp]: https://eprint.iacr.org/2021/060.pdf
+[cggmp-impl]: https://github.com/tangle-network/cggmp-threshold-ecdsa
+[cggmp-impl-contributions]: https://github.com/tangle-network/cggmp-threshold-ecdsa/pulls?q=is%3Apr+author%3Adavidsemakula
 
 [EF]: https://esp.ethereum.foundation
 [w3f]: https://web3.foundation
