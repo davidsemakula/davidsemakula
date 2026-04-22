@@ -3,27 +3,27 @@
 I'm currently working on:
 
 #### [Program analysis][program analysis], [compilers] and programming languages
-- 🚧 [pallet-verifier] (creator) - a tool for detecting 
+- 🚧 [pallet-verifier] _(creator)_: a tool for detecting 
   [common security vulnerabilities and insecure patterns][substrate-vulnerabilities] in [FRAME pallets][FRAME] 
   using [static program analysis][static-analysis] techniques like [data-flow analysis][data-flow],
-  [abstract interpretation][abs-int] and [symbolic execution][symbex]. (Funded by the [Web3 Foundation][w3f]).
-- [rust-analyzer] (independent [contributor][ra-contributions]) - a [Rust] compiler front-end for IDEs.
-- [MIRAI] (independent [contributor][MIRAI-contributions]) - an [abstract interpreter][abs-int]
+  [abstract interpretation][abs-int] and [symbolic execution][symbex]. _(Funded by the [Web3 Foundation][w3f])_.
+- [rust-analyzer] _(independent [contributor][ra-contributions])_: a [Rust] compiler front-end for IDEs.
+- [MIRAI] _(independent [contributor][MIRAI-contributions])_: an [abstract interpreter][abs-int]
   for the [Rust] compiler's [mid-level intermediate representation (MIR)][MIR].
 
 #### [Cryptographic][crypto] protocols and libraries
-- 🚧 [wamu] (creator) - a protocol and library for computation of [threshold signatures] by multiple [cryptographic identities][did].
-  (Funded by the [Ethereum Foundation][EF]).
+- 🚧 [wamu] _(creator)_: a protocol and library for computation of [threshold signatures] by multiple [cryptographic identities][did].
+  _(Funded by the [Ethereum Foundation][EF])_.
 
 I'm previously worked on/contributed to:
 
-- [ink! analyzer][ink-analyzer] (creator) - A collection of modular and reusable libraries and tools for 
-  [semantic analysis] of [ink!] smart contracts. (Funded by the [Web3 Foundation][w3f]).
-- [tangle-network/cggmp-threshold-ecdsa][cggmp-impl] (independent [contributor][cggmp-impl-contributions]) - 
+- [ink! analyzer][ink-analyzer] _(creator)_: A collection of modular and reusable libraries and tools for 
+  [semantic analysis] of [ink!] smart contracts. _(Funded by the [Web3 Foundation][w3f])_.
+- [tangle-network/cggmp-threshold-ecdsa][cggmp-impl] _(independent [contributor][cggmp-impl-contributions])_: 
   an implementation of the [CGGMP21][cggmp] threshold ECDSA protocol.
-- [ink!] ([contributor][ink-contributions]) - a [Rust DSL (Domain Specific Language)][DSL]
+- [ink!] _([contributor][ink-contributions])_: a [Rust DSL (Domain Specific Language)][DSL]
   for writing [smart contracts][smart-contract] for [Substrate]-based blockchains.
-- [cargo-contract] ([contributor][cargo-contract-contributions]) - a build and deployment tool for ink! smart contracts.
+- [cargo-contract] _([contributor][cargo-contract-contributions])_: a build and deployment tool for ink! smart contracts.
 
 ⚡ I hold a [B.Sc. in Computer Science][MAK].
 
