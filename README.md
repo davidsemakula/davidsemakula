@@ -15,7 +15,7 @@ I'm currently working on:
 - 🚧 [wamu] _(creator)_: a protocol and library for computation of [threshold signatures] by multiple [cryptographic identities][did].
   _(Funded by the [Ethereum Foundation][EF])_.
 
-I'm previously worked on/contributed to:
+I've previously worked on/contributed to:
 
 - [ink! analyzer][ink-analyzer] _(creator)_: A collection of modular and reusable libraries and tools for 
   [semantic analysis] of [ink!] smart contracts. _(Funded by the [Web3 Foundation][w3f])_.
